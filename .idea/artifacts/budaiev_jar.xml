@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="budaiev:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/budaiev_jar</output-path>
+    <root id="archive" name="budaiev.jar">
+      <element id="module-output" name="budaiev" />
+    </root>
+  </artifact>
+</component>
